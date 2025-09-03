@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 *.log
 .DS_Store
 .env
@@ -24,6 +25,8 @@ Homestead.json
 Homestead.yaml
 Thumbs.db
 =======
+=======
+>>>>>>> 081c1f7ac466b0324a1910ea7d55cb0b4d366253
 /vendor/
 node_modules/
 npm-debug.log
@@ -54,4 +57,7 @@ Homestead.json
 .env.production
 .phpactor.json
 auth.json
+<<<<<<< HEAD
 >>>>>>> 73c3a19cee726dfd60b6df9642283937014bebe6
+=======
+>>>>>>> 081c1f7ac466b0324a1910ea7d55cb0b4d366253
